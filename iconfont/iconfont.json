@@ -1,0 +1,30 @@
+{
+  "id": "4193267",
+  "name": "广州大学官网",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "15838561",
+      "name": "arrow-left-bold",
+      "font_class": "arrow-left-bold",
+      "unicode": "e685",
+      "unicode_decimal": 59013
+    },
+    {
+      "icon_id": "15838566",
+      "name": "arrow-right-bold",
+      "font_class": "arrow-right-bold",
+      "unicode": "e687",
+      "unicode_decimal": 59015
+    },
+    {
+      "icon_id": "2084165",
+      "name": "搜索",
+      "font_class": "sousuo1",
+      "unicode": "e6ed",
+      "unicode_decimal": 59117
+    }
+  ]
+}
